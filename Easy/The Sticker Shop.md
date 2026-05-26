@@ -6,6 +6,7 @@
 ## Objective
 Read the contents of:
 
+
 ```text
 http://10.48.134.7:8080/flag.txt
 ```
