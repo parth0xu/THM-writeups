@@ -6,6 +6,7 @@
 **Category:** AI / Prompt Injection / LLM Security
 **Objective:** Retrieve the hidden secret key from a vulnerable LLM-powered banking assistant.
 
+ 
 ---
 
 # Initial Recon
