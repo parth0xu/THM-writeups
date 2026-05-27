@@ -7,6 +7,7 @@
   - Obtain `user.txt`
   - Obtain `root.txt`
 
+ 
 ---
 
 # Step 1: Nmap Scan
